@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/view/fat-black-guy-eating-chewing-paradise-pd-gif-15185632"  />
+  <img height="150" src="[https://tenor.com/view/fat-black-guy-eating-chewing-paradise-pd-gif-15185632](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHgweW42MWg4eGJvaHkxa3NmOG85aTA2bnU0ZTIzc3YwcHluZmxwZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3k1hJ5OMckLK29TZAN/giphy.gif)"  />
 </div>
 
 ###
